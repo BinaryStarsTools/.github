@@ -1,12 +1,10 @@
-## Hi there 👋
+## Welcome to BinaryStarTools
 
-<!--
+**BinaryStarTools** is an open-source initiative dedicated to developing software that streamlines the research of binary stars.
 
-**Here are some ideas to get you started:**
+> A suite of Python-based tools and scripts focused on astrometric analysis, designed to improve the Quality-of-Life for both amateur and professional astronomers. The goal is to make data collection, analysis, and observation planning simpler and more efficient.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Projects
+
+-   **[StelleDoppie-Filtering](https://github.com/BinaryStarsTools/StelleDoppie-Filtering):** A robust Python tool to filter observation candidates for Binary Stars astrometric research. Based on Stelle Doppie's searching system.
